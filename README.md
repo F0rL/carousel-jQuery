@@ -21,4 +21,5 @@
 ![](https://ws1.sinaimg.cn/large/90864b23gy1fw6fdtqo45g208z048ayk.gif)
 
 ## 预览链接
+https://f0rl.github.io/carousel-jQuery/carousel-side-jquery.html
 
